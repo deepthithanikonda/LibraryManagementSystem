@@ -79,7 +79,5 @@ This project helped me understand:
 ## 📎 Author
 
 👩‍💻 **Deepthi Thanikonda**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthithanikonda)
-📂 [GitHub Repository](https://github.com/deepthithanikonda/LibraryManagementSystem)
-
+🔗 https://www.linkedin.com/in/venkata-deepthi-thanikonda-21536625b/
 ---
